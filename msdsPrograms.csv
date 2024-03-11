@@ -1,0 +1,115 @@
+﻿School Name,State,City,Ranking,Online,Total_Tuition_Cost,Program_Years_Full_Time,Min_Quant_GRE_Score,Min_Undergraduate_GPA,Median_Salary_10yr,Need_GRE,Institution Type
+Columbia University,NY,New York City,5,0,68160,1,N/A,3.7,132100,0,Private
+University of Texas-Austin,TX,Austin,45,1,10000,2,160,3,115600,1,Public
+University of Southern California,CA,Los Angeles,17,0,47880,1.5,N/A,3.5,126300,0,Private
+University of Miami,FL,Miami,87,0,66390,1.5,N/A,3,101000,0,Private
+Syracuse University,NY,Syracuse,113,1,58956,1.5,N/A,3,109100,0,Private
+University of Colorado-Boulder,CO,Boulder,126,0,42960,1,N/A,3.2,114600,0,Public
+University of Colorado-Boulder,CO,Boulder,126,1,20010,1,N/A,3.2,114600,0,Public
+University of Arizona,AZ,Tucson,127,0,53820,1.5,N/A,3,102100,0,Public
+University of Pennsylvania,PA,Philadelphia,9,0,73280,1.5,165,3.7,142900,1,Private
+University of California-Berkeley,CA,Berkeley,1,1,73224,1,N/A,3,138800,0,Public
+Yale University,NH,New Haven,2,0,68550,1.5,N/A,3.8,141300,0,Private
+Indiana University-Bloomington,IN,Bloomington,90,0,50184,1.5,N/A,3,99500,0,Public
+Indiana University-Bloomington,IN,Bloomington,90,1,24825,1.5,N/A,3,99500,0,Public
+Michigan State University,MI,East Lansing,93,0,39000,2,N/A,3,101400,0,Public
+University of Connecticut,CT,Storrs,70,1,39000,1.5,N/A,3,105200,0,Public
+University of Utah,UT,Salt Lake City,95,0,36633,1.5,N/A,3,104700,0,Public
+Stanford University,CA,Stanford,4,0,54315,1,165,3.7,147100,1,Private
+Harvard University,MA,Cambridge,7,0,87336,1.5,N/A,3.7,147700,0,Private
+University of California-Los Angeles,CA,Los Angeles,8,1,37800,2,165,3,122400,1,Public
+Northwestern University,IL,Evanston,10,1,57468,1,N/A,3.4,120300,0,Private
+Duke University,NC,Durham,12,0,120440,2,N/A,3.5,135000,0,Private
+Cornell University,NY,Ithaca,13,0,60286,1,163,3.7,133100,1,Private
+Vanderbilt University,TN,Nashville,14,0,103200,2,N/A,3.5,122400,0,Private
+University of California-San Diego,CA,San Diego,15,1,27400,1.5,N/A,3,128900,0,Public
+University of California-San Diego,CA,San Diego,15,0,48883,1.5,N/A,3,128900,0,Public
+University of California-Davis,CA,Davis,20,0,38280,1.5,N/A,3,119900,1,Public
+University of Michigan,MI,Ann Arbor,22,0,75204,1.5,N/A,3,112300,0,Public
+Rice University,TX,Houston,24,1,51668,1.5,N/A,3,134100,0,Private
+Rice University,TX,Houston,24,0,77250,1.5,N/A,3,134100,0,Private
+Brown University,RI,Providence,26,0,80527,1,163,3.5,136700,1,Private
+University of Washington,WA,Seattle,27,0,48825,1.5,N/A,3,115400,0,Public
+University of North Carolina-Chapel Hill,NC,Chapel Hill,28,0,46298,1.5,165,3.7,99900,1,Public
+University of Virginia,VA,Charlottesville,30,0,51242,1,N/A,3.4,125200,0,Public
+Emory University,GA,Atlanta,35,0,33600,1.5,160,3.3,116900,1,Private
+John's Hopkins University,MD,Baltimore,37,1,47550,1.5,N/A,3,117300,0,Private
+Tufts University,MA,Medford,38,0,54304,1,N/A,3.2,124800,0,Private
+University of Notre Dame,IN,Notre Dame,41,1,54000,2,N/A,3,136900,0,Private
+University of Maryland-College Park,MD,College Park,42,0,38000,1.5,N/A,3,112800,0,Public
+University of California-Irvine,CA,Irvine,47,0,39816,1.5,160,3,125900,1,Public
+Carnagie Mellon University,PA,Pittsburgh,49,0,100656,1.5,163,3.4,136500,1,Private
+Texas A&M,TX,College Station,50,0,39552,1.5,N/A,3,119000,0,Public
+University of Wisconsin-Madison,WI,Madison,59,0,48700,1,N/A,3,105000,0,Public
+Stony Brook University-SUNY,NY,Stony Brook,62,0,14601,1.5,N/A,3,111000,0,Public
+Lehigh University,PA,Bethlehem,65,0,45000,1,153,2.75,139800,1,Private
+San Diego State University,CA,San Diego,66,0,21512,1,155,3,104700,1,Public
+Santa Clara University,CA,Santa Clara,71,1,55356,1,155,3.5,146300,1,Private
+Santa Clara University,CA,Santa Clara,71,0,55356,1,155,3.5,146300,1,Private
+Northeastern University,MA,Boston,76,0,54080,1.5,N/A,3,109700,0,Private
+University of Rochester,NY,Rochester,78,0,54540,1,N/A,3.2,116000,0,Private
+New York University,NY,New York City,80,0,71964,2,167,3.7,124700,1,Private
+University of Minnesota-Twin Cities,MN,Minneapolis,84,0,26350,2,N/A,3.5,105700,0,Public
+Florida State University,FL,Tallahassee,94,0,33322,1.5,N/A,3,96100,0,Public
+Southern Methodist University,TX,University Park,102,1,57084,1.5,N/A,3,117700,0,Private
+Clemson University,SC,Clemson,107,1,37920,1.5,N/A,3,107000,0,Public
+University of Delaware,DE,Newark,108,0,31350,1,N/A,3,108800,0,Public
+San Jose State University,CA,San Jose,109,0,51400,2,160,3,115900,1,Public
+University at Buffalo-SUNY,NY,Buffalo,111,0,46170,1,N/A,3,97800,0,Public
+University of Maryland-Baltimore Coutry,MD,Baltimore,112,0,34980,1.5,N/A,3,105200,0,Public
+Syracuse University,NY,Syracuse,113,0,58956,1.5,N/A,3,109100,0,Private
+San Francisco State University,CA,San Francisco,117,0,45840,1.5,N/A,3,100800,0,Public
+Arizona State University,AZ,Tempe,121,1,15000,1,N/A,3,101700,0,Public
+University of Oklahoma,OK,Norman,125,0,32500,1.5,N/A,3,100900,0,Public
+University of Oklahoma,OK,Norman,125,1,32500,1.5,N/A,3,100900,0,Public
+Marquette University,WI,Milwaukee,131,0,39765,2,N/A,3,108700,0,Private
+Drexel University,PA,Philadelphia,133,0,60975,1.5,N/A,3,113600,0,Private
+Drexel University,PA,Philadelphia,133,1,60975,1.5,N/A,3,113600,0,Private
+Worcester Polytechnic Institute,MA,Worcester,135,0,48300,1.5,N/A,3,135500,0,Private
+Worcester Polytechnic Institute,MA,Worcester,135,1,48300,1.5,N/A,3,135500,0,Private
+Universtiy of Central Florida,FL,Orlando,138,0,42986,1.5,155,3,90100,1,Public
+University of Missouri-Columbia,MO,Columbia,142,0,38597,2,N/A,3,101400,0,Public
+University of Missouri-Columbia,MO,Columbia,142,1,39766,2,N/A,3,101400,0,Public
+Florida International Universtiy,FL,Miami,145,0,30828,1.5,148,3,91700,1,Public
+American University,DC,Washington,149,0,55980,1.5,N/A,3,109600,0,Private
+Auburn University,AL,Auburn,150,0,75990,1.5,150,2.75,105400,1,Public
+Auburn University,AL,Auburn,150,1,28470,1.5,150,2.75,105400,1,Public
+Stevens Institute of Technology,NJ,Hoboken,158,0,48372,1.5,155,3,144300,1,Private
+Stevens Institute of Technology,NJ,Hoboken,158,1,48372,1.5,155,3,144300,1,Private
+Texas Tech University,TX,Lubbock,163,0,24348,1,N/A,3,106300,0,Public
+Texas Tech University,TX,Lubbock,163,1,24348,1,N/A,3,106300,0,Public
+University of Vermont,VT,Burlington,164,0,51600,1.5,N/A,3,101900,0,Public
+University of Denver,CO,Denver,165,0,47916,1.5,N/A,2.5,107300,0,Private
+University of Denver,CO,Denver,165,1,47916,1.5,N/A,2.5,107300,0,Private
+University of the Pacific,CA,Stockton,166,0,49120,2,N/A,2.65,112100,0,Private
+Michigan Technological University,MI,Houghton,167,0,40290,1.5,N/A,2.85,114700,0,Public
+Fordham University,NY,New York City,168,0,41400,1.5,N/A,3,118200,0,Private
+University of San Francisco,CA,San Francisco,169,0,54425,1.5,155,3,114400,1,Private
+Rochester Institute of Technology,NY,Rochester,178,0,52092,1,N/A,3,105200,0,Private
+Rochester Institute of Technology,NY,Rochester,178,1,37110,1,N/A,3,105200,0,Private
+University at Albany-SUNY,NY,Albany,187,0,21194,1.5,N/A,3,106000,0,Public
+University of Kansas,KS,Lawrence,188,1,21000,1.5,N/A,3,100800,0,Public
+New Jersey Institute of Technology,NJ,Newark,189,0,50010,2,160,3,124400,1,Public
+Florida Atlantic University,FL,Boca Raton,192,0,27825,1.5,155,3,92100,1,Public
+Colorado State University,CO,Fort Collins,199,0,29515,1,155,3,97800,1,Public
+Colorado State University,CO,Fort Collins,199,1,24330,1,155,3,97800,1,Public
+Temple University,PA,Philadelphia,200,0,47010,1.5,155,3,95800,1,Public
+Oklahoma State University,OK,Stillwater,204,0,41370,2,145,3,99700,1,Public
+Oklahoma State University,OK,Stillwater,204,1,20175,2,145,3,99700,1,Public
+California State University-East Bay,CA,Hayward,207,0,23436,1.5,N/A,2.5,104400,0,Public
+University of Kentucky,KY,Lexington,209,0,49842,1.5,N/A,3,95900,0,Public
+Loyola University of Maryland,MD,Baltimore,210,1,27745,2,N/A,3,121600,0,Private
+University of St. Thomas,MN,Minneapolis,213,0,34890,2,N/A,3,113300,0,Private
+Seton Hall University,NJ,South Orange,215,1,42030,1.5,N/A,3,104800,0,Private
+Ramapo College of New Jersey,NJ,Mahwah,223,0,35610,2,N/A,3,97800,0,Public
+Seattle University,WA,Seattle,225,0,41085,2,N/A,3,115700,0,Private
+DePaul University,IL,Chicago,227,1,39690,1.5,N/A,3,108300,0,Private
+University of North Texas,TX,Denton,234,0,16488,2,N/A,3.2,92600,0,Public
+Colorado School of Mines,CO,Golden,235,0,68070,1.5,N/A,3,142800,0,Public
+University of Nevada-Reno,NV,Reno,236,0,32182,2,N/A,3,96300,0,Public
+New College of Florida,FL,Sarasota,237,0,44206,2,N/A,3,92500,0,Public
+Georgia State University,GA,Atlanta,241,0,45000,1,N/A,3,90900,0,Public
+Pace University,NY,New York City,243,0,41250,1,N/A,3,111800,0,Private
+Pace University,NY,New York City,243,1,31500,1,N/A,3,111800,0,Private
+Chapman University,CA,Orange,246,0,54095,2,146,3,102100,1,Private
+Adelphi University,NY,Garden City,249,0,42600,1.5,N/A,3,94800,0,Private
