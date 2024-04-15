@@ -1,3 +1,5 @@
+-- This is an exploratory analysis of NETFLIX movies and shows. Goal: discovering insights on NETFLIX shows and movies, through series of queries that would peak an user's interest.
+
 -- CREATE TABLE credits (
 -- 	person_id INTEGER,
 -- 	id VARCHAR(50),
