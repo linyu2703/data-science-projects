@@ -1,3 +1,3 @@
 Data Science Portfolio Projects
 
-This portfolio is a compilation of notebooks for various data analysis projects I am exploring.
+This portfolio is a compilation of notebooks for various data exploratory analysis projects I am exploring.
